@@ -10,6 +10,7 @@ EOF
 exit 0
 }
 index=""
+name="Uperf Elasticseach"
 while getopts "u:d:i:t:h" opt; do
   case ${opt} in
     d )

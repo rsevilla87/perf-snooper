@@ -9,7 +9,7 @@ dashboard='{
 }'
 
 esds='{
-  "name": "Uperf Elastic",
+  "name": "'${name}'",
   "type": "elasticsearch",
   "access": "proxy",
   "url": "'${datasource}'",
